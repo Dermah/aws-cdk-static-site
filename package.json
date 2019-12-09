@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Dermah/cdk-static-site/issues"
   },
-  "homepage": "https://github.com/Dermah/cdk-static-site#readme"
+  "homepage": "https://github.com/Dermah/cdk-static-site#readme",
+  "devDependencies": {
+    "aws-cdk": "^1.18.0"
+  }
 }
