@@ -1,5 +1,5 @@
 {
-  "name": "cdk-static-site",
+  "name": "aws-cdk-static-site",
   "version": "1.0.0",
   "description": "AWS CDK module for quickly creating simple static site infrastructure",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dermah/cdk-static-site.git"
+    "url": "git+https://github.com/Dermah/aws-cdk-static-site.git"
   },
   "keywords": [
     "aws",
@@ -20,7 +20,7 @@
   "author": "Sputnik <inquiry@dermah.com> (https://dermah.org)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dermah/cdk-static-site/issues"
+    "url": "https://github.com/Dermah/aws-cdk-static-site/issues"
   },
-  "homepage": "https://github.com/Dermah/cdk-static-site#readme"
+  "homepage": "https://github.com/Dermah/aws-cdk-static-site#readme"
 }
